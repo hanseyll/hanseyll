@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://website-deploy-mocha.vercel.app/](https://website-deploy-mocha.vercel.app/)
 
