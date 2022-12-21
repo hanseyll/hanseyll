@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/hanseyll/hanseyll/blob/main/Imgs/hellogif.gif)
+![MasterHead](https://github.com/hanseyll/hanseyll/blob/main/Imgs/banner.png)
 <h1 align="center">Hi 👋, I'm Javier Gonzalez</h1>
 <h3 align="center">Minimalism & Lateral thinking</h3>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif"/>
