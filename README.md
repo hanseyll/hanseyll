@@ -21,17 +21,17 @@
 <h3>My Projects</h3>
 
 <p>
-  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P1.png" width="300px" height="250px"></a>
-  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P2.png" width="300px" height="250px"></a>
-  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P3.png" width="300px" height="250px"></a>
-  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P4.png" width="300px" height="250px"></a>
-  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P5.png" width="300px" height="250px"></a>
+  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P1.png" width="400px" height="250px"></a>
+  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P2.png" width="400px" height="250px"></a>
+  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P3.png" width="400px" height="250px"></a>
+  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P4.png" width="400px" height="250px"></a>
+  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P5.png" width="400px" height="250px"></a>
 </p>
 <p>
-  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/firstSideNotesApp.png" width="300px" height="250px"></a>
-  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/registerSideAppNotes.png" width="300px" height="250px"></a>
-  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/loginSideAppNotes.png" width="300px" height="250px"></a>
-  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/notesSidesAppNotes.png" width="300px" height="250px"></a>
+  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/firstSideNotesApp.png" width="400px" height="250px"></a>
+  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/registerSideAppNotes.png" width="400px" height="250px"></a>
+  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/loginSideAppNotes.png" width="400px" height="250px"></a>
+  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/notesSidesAppNotes.png" width="400px" height="250px"></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
