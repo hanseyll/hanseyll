@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Java**
 
-- 👨‍💻 All of my projects are available at [https://website-deploy-mocha.vercel.app/](https://website-deploy-mocha.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://website-deploy-mocha.vercel.app/)
 
 - 💬 Ask me about **Javascript, React, Redux, Node, Express**
 
