@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **MongoDB, Java**
+- 🌱 I’m currently learning **MongoDB, AWS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://website-deploy-mocha.vercel.app/)
 
