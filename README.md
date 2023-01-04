@@ -8,13 +8,13 @@
 
 
 
-- 🌱 I’m currently learning **MongoDB, AWS**
+- 🌱 I’m currently learning **SpringBoot, AWS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://website-deploy-mocha.vercel.app/)
 
 - 💬 Ask me about **Javascript, React, Redux, Node, Express**
 
-- 📫 How to reach me **vanhanseyll@gmail.com**
+- 📫 How to reach me **javierjosegonzal3z@gmail.com**
 
 - ⚡ Fun fact **I'm The Coolest Guy in Colombia…Google It To See For Yourself.**
 
