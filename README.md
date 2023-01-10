@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/hanseyll/hanseyll/blob/main/Imgs/theCover.png)
 <h1 align="center">Hi 👋, I'm Javier Gonzalez</h1>
 <h3 align="center">Minimalism & Lateral thinking</h3>
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f3/42/b9/f342b94c920d2b7bbf20cb8a63e52762.gif"/>
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f5/2d/c9/f52dc984cb4b1a269ca4da7389618dd4.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanseyll&label=Profile%20views&color=0e75b6&style=flat" alt="hanseyll" /> </p>
