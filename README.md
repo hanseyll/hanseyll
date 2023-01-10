@@ -8,11 +8,11 @@
 
 
 
-- 🌱 I’m currently learning **SpringBoot, AWS**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://website-deploy-mocha.vercel.app/)
 
-- 💬 Ask me about **Javascript, Node, Express, Java, Springboot, SQL, NoSQL, AWS**
+- 💬 Ask me about **Javascript, Node, Express, Java, Springboot,React, SQL, NoSQL**
 
 - 📫 How to reach me **javierjosegonzal3z@gmail.com**
 
