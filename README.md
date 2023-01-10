@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://website-deploy-mocha.vercel.app/)
 
-- 💬 Ask me about **Javascript, React, Redux, Node, Express**
+- 💬 Ask me about **Javascript, Node, Express, Java, Springboot, SQL, NoSQL, AWS**
 
 - 📫 How to reach me **javierjosegonzal3z@gmail.com**
 
