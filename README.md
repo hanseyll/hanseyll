@@ -21,7 +21,7 @@
 <h3>My Projects</h3>
 
 <p>
-  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P1.png" width="400px" height="250px"></a>
+  <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/project7.png" width="400px" height="250px"></a>
   <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P2.png" width="400px" height="250px"></a>
   <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P3.png" width="400px" height="250px"></a>
   <a><img src="https://github.com/hanseyll/hanseyll/blob/main/Imgs/P4.png" width="400px" height="250px"></a>
