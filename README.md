@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Angular - Webflux**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://website-deploy-mocha.vercel.app/)
 
